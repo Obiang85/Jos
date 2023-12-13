@@ -1,0 +1,376 @@
+.navbar{
+     display: flex;
+     justify-content: space-around;
+}
+.menu a{
+     text-decoration: none;
+     color:rgb(149, 126, 126)
+
+}
+ .menu{
+     display: flex;
+     justify-content: space-between;
+     gap: 30px;
+     font-size: 19px;
+     
+ }
+ .doct 
+ {
+     margin-left: 15px;
+ }
+ .pat {
+    margin-left: 15px;
+ 
+ }
+ .clin {
+    margin-left: 15px;
+ }
+ .doc {
+    padding-left: 600px;
+ }
+ 
+    
+ 
+ h1 
+ {text-align: center;
+  font-size:40px;
+  font-weight: normal;
+  color:rgb(110, 161, 110)
+}
+.text {
+     display: flex;
+     justify-content: space-around;
+     gap: 20px;
+    }
+.text p
+ {
+     font-size: 23px;
+     font-weight: normal;
+ }
+.primero {
+     margin-left: 50px;
+}
+.segundo
+ {
+     margin-right: 50px;
+ } 
+ .patients
+ {
+     background-color:rgb(0,204,177);
+     height: 350px;
+     width: 330px;
+     border-radius: 2%;
+     
+     
+ }
+ .pat {
+    
+ }
+.log {
+     padding-right: 30px;
+}
+.doctors 
+{
+     background-color: rgb(61,131,223);
+     height:350px;
+     width:330px;
+     border-radius: 2%;
+}
+.clinics
+ {
+     background-color:rgb(27,39,52) ;
+     height:350px;
+     width:330px;
+     border-radius: 2%;
+ }
+ .service p {
+     color:white;
+ }
+ h2,h3,h4 {
+     color: white;
+ }
+ .service 
+ {
+     display: flex;
+     justify-content: space-around;
+     gap: 5px;
+ }
+ .group {
+     display:flex;
+     justify-content: space-around;
+     gap: 12px;
+ }
+ .image1 img 
+ {
+     width: 120px;
+     padding-left: 50px;
+ }
+ .image1 
+ {
+     display: flex;
+     padding-left: 450px;
+     padding-right: 50px;
+     
+ }
+ .image2  {
+     display: flex;
+     padding-left: 450px;
+     
+     
+ }
+ .image2 img 
+ {
+width: 90px;
+padding-left: 50px;
+ }
+ .local p 
+ {
+   font-size: 30px; 
+   width: 170px;
+   height: 10px;
+    
+ }
+ .local 
+ {
+     padding-left: 190px;
+     background-color: white
+     
+
+ }
+ .drap{
+     background-color: white;
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 220px;
+    text-align: center;
+    height: 250px;
+  }
+  .image3 
+  {
+     padding-left:  500px; ;
+  }
+  .small {
+     padding-right: 30px;
+  }
+  .world {
+     background-color: #D5F5F6;
+  }
+  .leader 
+  {
+     background-color: white;
+     width: auto;
+    
+     
+
+  }
+  .leader1
+  {
+     background-color:white;
+     
+     
+  }
+  .two 
+  {
+    display: flex; 
+    
+  }
+  h5 {
+     font-size: 20px;
+  }
+  .pays{
+    display: flex;
+   
+  }
+  .leader1{
+    margin-left: 40px;
+    margin-top: 15px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .square{
+    display: flex; 
+    flex-direction: column;
+  }
+  .test{
+    display: flex;
+    padding-left: 80px ;
+  }
+  .drap2 img {
+    padding: left 50px;
+  }
+  .people {
+    background-color: white;
+    height: 250px;
+    margin-left: 100px;
+    width: 220px;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+    
+  }
+  .last {
+    
+    height: 250px;
+    
+    background-color:white;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 10px;
+    
+    
+  } 
+  .pi h5 {
+    font-size: 40px;
+    font-weight: normal;
+    color: rgb(35, 97, 35);
+  }
+  .pi p {
+    font-size: 20px;
+  }
+  .both {
+    background-color:rgb(219,247,246);
+    padding-left: 20px;
+    width: 400px;
+    
+  }
+  .final {
+    text-align: center;
+  }
+ .mel {
+    font-size: 30px;
+    color:rgb(86, 184, 86);
+ }
+ .foo {
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+ }
+ 
+ .groupe1 {
+    justify-content: space-around;
+    display: flex;
+    gap:30px;
+ }
+ .letra {
+    display:flex ;
+ }
+ .warsee {
+    background-color: white;
+    
+ }
+ .barsee {
+    background-color: white;
+    
+ }
+ .munsee {
+    background-color: white;
+    
+ }
+ .uno {
+    display:flex;
+    font-size: 10px;
+    justify-content: space-around;
+    
+ }
+ .dos {
+    display: flex;
+    font-size: 10px;
+    justify-content:space-around
+ }
+ .thres {
+    display: flex;
+    font-size: 10px;
+    justify-content: space-around;
+ }
+ .op {
+    padding-left: 60%;
+ }
+ .Bar {
+    font-size: 14px;
+ }
+ .op {
+    background-color:rgb(61,131,223) ;
+    
+    font-size: 9px;
+    color: white;
+    width: max-content;
+    margin-top: 10px;
+    border-radius: 3px;
+    border-width: 0;
+ }
+ .on {
+    width: 20px;
+ }
+ .war {
+    background-color: white;
+ }
+ .war img {
+   width: 320px;
+   height: 280px;
+   
+ }
+ .groupe2 {
+    background-color: white;
+    padding-left: 165px;
+ }
+ .feo {
+    display:flex;
+    
+ }.ops {
+    background-color:rgb(61,131,223) ;
+    
+    font-size: 9px;
+    color: white;
+    width: max-content;
+    margin-top: 10px;
+    margin-left: 200px;
+    border-radius: 3px;
+    border-width: 0;
+
+ }
+ .porfin {
+    text-align: center;
+ }
+ .wao {
+    font-size: 40px;
+    font-style: italic ;
+ }
+ .fock {
+    background-color: rgb(61,131,223);
+    color: white;
+    height: 35px;
+    border-radius: 5px;
+    border-width: 0;
+ }.dej {
+    text-align: center;
+    font-size: 15px;
+ }
+ .dej a{
+    text-decoration: none;
+ }
+ .select {
+   t
+   text-decoration: underline; 
+ }
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+    
+  
+
+  
+  
+
+
+ 
+
+
